@@ -1,0 +1,2 @@
+# Arabic-Text-Processing-and-Classification-Using-NLP-Techniques
+This project aims to build an efficient NLP pipeline for Arabic text. It involves preprocessing steps like removing diacritics, punctuation, and non-Arabic characters, tokenizing text, and standardizing letters. Various machine learning models were used to classify Arabic news headlines. Performance was evaluated using accuracy and F1 scores.
